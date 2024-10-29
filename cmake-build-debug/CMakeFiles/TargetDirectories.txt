@@ -1,0 +1,3 @@
+D:/Coding Projects/CLion-workspace/Game-3D/cmake-build-debug/CMakeFiles/Game_3D.dir
+D:/Coding Projects/CLion-workspace/Game-3D/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding Projects/CLion-workspace/Game-3D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
